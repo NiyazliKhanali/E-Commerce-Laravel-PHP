@@ -134,11 +134,3 @@ Author
 Khanali Niyazli
 Computer Engineering Student
 GitHub: https://github.com/NiyazliKhanali
-
-If you want:
-
-a shorter README
-
-a more technical README
-
-or one tailored for recruiters
